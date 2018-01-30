@@ -1,4 +1,4 @@
-###VLCFourUpTest
+## VLCFourUpTest
 
 A simple swift macOS App to test playing multiple RTMP streams with libvlc.
 
