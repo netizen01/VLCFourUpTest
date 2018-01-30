@@ -16,7 +16,7 @@ The VLC.swift file manages the setup and creation of a the basics of libvlc (lib
 
 *You need to change the PluginPath at the top of VLC.swift*
 
-App Setup:
+App Setup (already done):
 - Add the 4 dylibs from VLC/lib to the General -> "Embedded Binaries" area in the Target Settings
 - Add "libvlc.dylib" and "libvlccode.dylib" to the General -> "Linked Frameworks and Libraries" area in the Target Settings
 - Add "$(PROJECT_DIR)/VLC/lib" to Build Settings -> Library Search Paths
